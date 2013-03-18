@@ -63,7 +63,6 @@ repos=(
 # Here's a list of everything else to download in the format
 # <destination>;<url>[;<filename>]
 other=(
-  'zenburn/colors;http://slinky.imukuppi.org/zenburn/zenburn.vim'
   'wombat/colors;http://files.werx.dk/wombat.vim'
   'glsl/syntax;http://www.vim.org/scripts/download_script.php?src_id=3194;glsl.vim'
   )
